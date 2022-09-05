@@ -28,4 +28,4 @@ for i in $(cat $location); do
     fi
 done
 
-# If a Gmail account exists, Curl will return a response with "set-cookie" in the results.
+# If a Gmail account exists, Curl will return a response with "set-cookie" in the results. 
